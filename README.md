@@ -11,7 +11,7 @@ It combines:
 The AI agent intelligently thinks about your question through using multiple tools to analyze data, select appropriate visuals, and summarize key insights.
 
 <p align="center">
-  <img alt="Fintech.GPT Home" src="docs/screenshots/home.png" width="800">
+  <img alt="Fintech.GPT Home" src="screenshots/home.png" width="800">
 </p>
 
 ---
@@ -31,15 +31,8 @@ The AI agent intelligently thinks about your question through using multiple too
 
 - Home view with example prompts
 
-  <img alt="Home" src="docs/screenshots/home.png" width="800">
+  <img alt="Home" src="screenshots/home_examples.png" width="800">
 
-- Analysis results with insights and chart
-
-  <img alt="Analysis" src="docs/screenshots/analysis.png" width="800">
-
-- Auto-generated chart preview
-
-  <img alt="Chart" src="docs/screenshots/chart.png" width="800">
 
 ---
 
