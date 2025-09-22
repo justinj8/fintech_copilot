@@ -1,0 +1,8 @@
+langchain
+openai
+streamlit
+pandas
+seaborn
+matplotlib
+faiss-cpu
+python-dotenv
